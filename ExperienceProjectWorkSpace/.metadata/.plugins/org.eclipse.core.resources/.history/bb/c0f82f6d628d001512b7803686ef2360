@@ -1,0 +1,15 @@
+package com.hotel.Utils;
+
+public class genericUtils {
+	
+	
+	public void clickWebElement(){}
+	public void mouseHoverOnWebElement(){}
+	public void dragAndDrop(){}
+	public void excelReading(){}
+	public void excelWriting(){}
+	public void waiting(){}
+	public void screenShot(){}
+	public void enterText(){}
+	
+}
