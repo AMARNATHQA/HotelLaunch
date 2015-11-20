@@ -1,7 +1,7 @@
 package com.hotel.IndiaTours;
 
 public class indiatour_Home {
-
+              @FindBy()
 	public void Validate_IndiaTours_logo(){
 		
 	}
@@ -18,7 +18,7 @@ public class indiatour_Home {
 		
 	}
 	public void Validate_lending_Page(){
-		
+	   	
 	}
 	public void VerifyAllLinkOnPage(){
 		
